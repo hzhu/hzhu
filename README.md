@@ -1,4 +1,10 @@
-### Hi there 👋
+## README 👋
+
+* My actual [README](https://henryzhu.me/readme)
+
+## Notes
+
+* [Testing philosophy](https://henryzhu.me/testing)
 
 <!--
 **hzhu/hzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
