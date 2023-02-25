@@ -1,6 +1,6 @@
 ## README 👋
 
-* My [README](https://henryzhu.me/readme). Useful if working with me.
+* My [README](https://henryzhu.me/readme).
 
 ## Blog posts
 * [Publish an NFT Collection](https://medium.com/@henballs/publish-a-nft-collection-478fcc74014)
