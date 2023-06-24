@@ -3,6 +3,7 @@
 * My [README](https://henryzhu.me/readme).
 
 ## Blog posts
+* [0x-parser: Parsing DEX Transactions](https://medium.com/@henballs/0x-parser-parsing-dex-transactions-9f9a6579d489)
 * [Publish an NFT Collection](https://medium.com/@henballs/publish-a-nft-collection-478fcc74014)
 * [Testing philosophy](https://henryzhu.me/testing)
 
