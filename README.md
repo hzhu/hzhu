@@ -6,6 +6,7 @@
 * [0x-parser: Parsing DEX Transactions](https://medium.com/@henballs/0x-parser-parsing-dex-transactions-9f9a6579d489)
 * [Publish an NFT Collection](https://medium.com/@henballs/publish-a-nft-collection-478fcc74014)
 * [Testing philosophy](https://henryzhu.me/testing)
+* [Merge v Rebase](https://warpcast.com/hz/0x434a7b)
 
 <!--
 **hzhu/hzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
