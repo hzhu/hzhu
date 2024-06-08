@@ -1,7 +1,6 @@
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://avatars.githubusercontent.com/u/1811365?s=400&u=1db2ebe842c72203fc581c44decd4752e6f79cec&raw=true');]{x0000}$}
 ```
-
 ## README 👋
 
 * My [README](https://henryzhu.me/readme).
