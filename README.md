@@ -5,6 +5,7 @@
 ## Blog posts
 * [0x-parser: Parsing DEX Transactions](https://medium.com/@henballs/0x-parser-parsing-dex-transactions-9f9a6579d489)
 * [Publish an NFT Collection](https://medium.com/@henballs/publish-a-nft-collection-478fcc74014)
+* [A Guide to Solo Staking](https://medium.com/@henballs/dappnode-guide-to-ethereum-solo-staking-1892f87e4886)
 * [Testing philosophy](https://henryzhu.me/testing)
 * [Merge v Rebase](https://warpcast.com/hz/0x434a7b)
 
