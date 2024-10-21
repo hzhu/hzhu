@@ -3,6 +3,7 @@
 * My [README](https://henryzhu.me/readme).
 
 ## Blog posts
+* [🔐 Protecting Node Provider URLs for Frontend dApps](https://medium.com/@henballs/protecting-node-provider-urls-for-frontend-dapps-c9a8159fc94d)
 * [0x-parser: Parsing DEX Transactions](https://medium.com/@henballs/0x-parser-parsing-dex-transactions-9f9a6579d489)
 * [Publish an NFT Collection](https://medium.com/@henballs/publish-a-nft-collection-478fcc74014)
 * [A Guide to Solo Staking](https://medium.com/@henballs/dappnode-guide-to-ethereum-solo-staking-1892f87e4886)
